@@ -1,7 +1,7 @@
 <p>
-  <!-- <a href="https://api.moedog.org/count/"></a>  API来自：https://api.moedog.org/count/   -->
+  <!-- <a href="https://api.moedog.org/count/"></a> 小白-白的API：https://api.moedog.org/count/ -->
   <img src="https://api.moedog.org/count/@lovelygod3?theme=moebooru">
-  <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
+  <img src="https://weather-icon.journeyad.repl.co/@henan?v=1" align="right">
 </p>
 
 #### Platform&Tools
@@ -25,6 +25,8 @@
 ⬇️**点击下方图片参与聊天**⬇️
 
 <a href="https://chat.walitv.cn/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/lovelygod3/PicGo/img/acfaq.png" title="Fiora - 碎碎酱（https://github.com/yinxin630）"></a>
+
+<!-- Fiora - 碎碎酱 https://github.com/yinxin630 -->
 
 #### Github Stats
 [![info](https://github-readme-stats.vercel.app/api?username=lovelygod3&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
