@@ -22,7 +22,7 @@
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Microsoft%20IIS-00a8e8?style=flat-square&logo=microsoft&logoColor=ffffff)](https://www.iis.net/)
 
-⬇️**点击下方图片参与聊天**⬇️
+⬇️ **点击下方图片参与聊天** ⬇️
 
 <a href="https://chat.walitv.cn/invite/group/60d9b78028b2eb5bc1cd5ed4" target="_blank"><img src="https://cdn.jsdelivr.net/gh/lovelygod3/PicGo/img/acfaq.png" title="Fiora - 碎碎酱（https://github.com/yinxin630）"></a>
 
