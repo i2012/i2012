@@ -24,7 +24,7 @@
 
 ⬇️**点击下方图片参与聊天**⬇️
 
-<a href="https://chat.walitv.cn/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/lovelygod3/PicGo/img/acfaq.png" title="Fiora - 碎碎酱（https://github.com/yinxin630）"></a>
+<a href="https://chat.walitv.cn/invite/group/60d9b78028b2eb5bc1cd5ed4" target="_blank"><img src="https://cdn.jsdelivr.net/gh/lovelygod3/PicGo/img/acfaq.png" title="Fiora - 碎碎酱（https://github.com/yinxin630）"></a>
 
 <!-- Fiora - 碎碎酱 https://github.com/yinxin630 -->
 
