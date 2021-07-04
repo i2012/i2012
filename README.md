@@ -41,15 +41,6 @@
 
 干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
 ```
-
-<iframe 
-    height=450 
-    width=800 
-    src="http://player.youku.com/embed/XMzMxMjE0MjY4NA==" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
-
 <!--
 **lovelygod3/lovelygod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
