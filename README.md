@@ -1,7 +1,7 @@
 <p>
   <!-- <a href="https://api.moedog.org/count/"></a> 小白-白的API：https://api.moedog.org/count/ -->
-  <!-- <img src="https://api.moedog.org/count/@yh2233?theme=moebooru"> -->
-    <img src="https://api.moedog.org/count/@yh2233?theme=rule34">
+  <img src="https://api.moedog.org/count/@yh2233?theme=moebooru">
+  <!-- <img src="https://api.moedog.org/count/@yh2233?theme=rule34"> -->
   <img src="https://weather-icon.journeyad.repl.co/@henan?v=1" align="right">
 </p>
 
