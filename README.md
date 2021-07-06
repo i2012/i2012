@@ -28,12 +28,6 @@
 <br><br>
 [![](https://api.moedog.org/room/@yh2233.github/svg?width=600&height=150&limit=20&theme=light&title=%E6%A8%B1%E8%8A%B1@GitHub:%20~&fontSize=13)](https://api.moedog.org/room/@yh2233.github?title=%E6%A8%B1%E8%8A%B1%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
 
-⬇️ **聊天群 (点击下方图片参与聊天~)**
-<br><br>
-<a href="https://chat.walitv.cn/invite/group/60d9b78028b2eb5bc1cd5ed4" target="_blank"><img src="https://cdn.jsdelivr.net/gh/yh2233/PicGo/img/GitHubT.png" title="Fiora - 碎碎酱（https://github.com/yinxin630）"></a>
-
-<!-- Fiora - 碎碎酱 https://github.com/yinxin630 -->
-
 #### Github Stats
 [![info](https://github-readme-stats.vercel.app/api?username=yh2233&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -46,6 +40,13 @@
 
 干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
 ```
+
+⬇️ **聊天群 (点击下方图片参与聊天~)**
+<br><br>
+<a href="https://chat.walitv.cn/invite/group/60d9b78028b2eb5bc1cd5ed4" target="_blank"><img src="https://cdn.jsdelivr.net/gh/yh2233/PicGo/img/GitHubT.png" title="Fiora - 碎碎酱（https://github.com/yinxin630）"></a>
+
+<!-- Fiora - 碎碎酱 https://github.com/yinxin630 -->
+
 <!--
 **lovelygod3/lovelygod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
