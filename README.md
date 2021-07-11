@@ -46,7 +46,6 @@
 <a href="https://chat.walitv.cn/invite/group/60d9b78028b2eb5bc1cd5ed4" target="_blank"><img src="https://cdn.jsdelivr.net/gh/yh2233/PicGo/img/GitHubT.png" title="Fiora - 碎碎酱（https://github.com/yinxin630）"></a>
 
 <!-- Fiora - 碎碎酱 https://github.com/yinxin630 -->
-<img href="https://jkjpro.cn/xlz/csa.js" />
 <!--
 **lovelygod3/lovelygod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
