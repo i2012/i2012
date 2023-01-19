@@ -5,6 +5,8 @@
   <img src="https://weather-icon.journeyad.repl.co/@zhengzhou?v=1" align="right">
 </p>
 
+<img src="https://stats.justsong.cn/api/bilibili/?id=454024528&theme=light" align="right">
+
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
