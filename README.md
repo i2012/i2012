@@ -1,7 +1,7 @@
 <div>
     <div align="center">
     <a href="https://github.com/LovelyGod">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&width=520&duration=2000&repeat=false&lines=print(%22Hello%2C%20World%22);&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&width=520&duration=3000&repeat=false&lines=print(%22Hello%2C%20World%22);&center=true&size=27" />
     </a>
     </div>
     <h6><em>“We hope that one day, governments who build barriers to disconnect their people from the world and each other will recognize that they are acting against their own interests, as well as the rights of their citizens and all humanity.”</em></h6>
